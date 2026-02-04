@@ -1,2 +1,2 @@
 # Deep-Learning-CSL-5309-
-Deep Learning Exaples for practice
+This repository contains a curated collection of deep learning examples designed for students to learn, practice, and experiment with core concepts. It includes original implementations developed as part of coursework, along with selected practice-oriented examples inspired by the Hands-On Machine Learning book. The focus of this repository is educational, aiming to provide clear, easy-to-follow code that helps learners strengthen their understanding through hands-on experimentation.
